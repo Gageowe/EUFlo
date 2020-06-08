@@ -1,3 +1,6 @@
 ﻿l_english:
  floridian:0 "Floridian"
+ FLO: "Florida"
+ FLO_ADJ: "Floridian"
+ FLO_ADJ2: "Floridian"
  AUTO_TRANSPORT_NO_COG:1 "\nYou need transport ships in order to transport troops with this fleet."
