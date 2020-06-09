@@ -1,0 +1,27 @@
+#926 - Seminole
+
+culture = floridian
+religion = catholic
+capital = "Seminole"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 2
+native_hostileness = 8
+
+1444.1.1 = {
+	owner = FLO
+	controller = FLO
+	add_core = FLO
+	is_city = yes
+	culture = floridian
+	religion = catholic 
+}
+
+discovered_by = north_american
+
+1513.4.2 = { discovered_by = CAS } # Juan Ponce de Leon
+1516.1.23 = { discovered_by = SPA }
